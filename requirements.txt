@@ -1,0 +1,5 @@
+streamlit
+python_graphql_client
+plotly
+pandas
+requests
